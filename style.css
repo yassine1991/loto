@@ -1,0 +1,13 @@
+.container {
+    background-color: blue;
+    width: 200px;
+    height: 50%;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+button {
+    padding: 20px;
+}
