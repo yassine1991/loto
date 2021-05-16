@@ -1,13 +1,23 @@
+h1 {
+    text-align: center;
+}
+
 .container {
-    background-color: blue;
-    width: 200px;
-    height: 50%;
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
+    text-align: center;
 }
 
 button {
-    padding: 20px;
+    width: 42px;
+    height: 42px;
+    font-size: 18px;
+    line-height: 40px;
+    text-align: center;
+    margin: 6px;
+    background: ;
+    border-radius: 5px;
+    color: #797979;
+    border: 1px solid #a9a9a9;
+    text-decoration: none;
 }
+
+transition: all 50ms ease-in-out;
